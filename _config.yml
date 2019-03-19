@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yuan Sun"
   avatar           : "profile.png"
-  bio              : "Postdoc at RMIT University"
+  bio              : "yuan.sun@rmit.edu.au \n\n\n Postdoc in Computer Science \n\n\n RMIT University"
   location         : "Melbourne, AU"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DN6FiewAAAAJ&hl=en"
   email            : "yuan.sun@rmit.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Yuan_Sun21"
+  researchgate     : #"https://www.researchgate.net/profile/Yuan_Sun21"
   uri              :
   bitbucket        :
   codepen          :
