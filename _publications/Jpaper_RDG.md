@@ -1,7 +1,7 @@
 ---
 title: "A recursive decomposition method for large scale continuous optimization"
 collection: IEEE Transactions on Evolutionary Computation
-permalink: /publication/Jpaper_RDG.md
+permalink: /publication/Jpaper_RDG
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
