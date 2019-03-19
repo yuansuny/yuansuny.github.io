@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Yuan Sun's home on the web!
+I am currently postdoctoral researcher at RMIT University. I obtained my Ph.D degree from University of Melbourne in 2018 and Bachelor's degree from Peking University in 2013. My research interest lies in applied mathmatics, particularly in optimization and operations research, evolutionary computation and machine learning.
 
 News
 ======
 
-1. Our paper has been accepted in ... The software is avaiable at http://yuansuny.github.io.
+1. Our paper has been accepted in ... The software is avaiable at "http://yuansuny.github.io".
