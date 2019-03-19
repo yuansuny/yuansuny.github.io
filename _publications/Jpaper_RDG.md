@@ -10,6 +10,5 @@ citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Sun, Y., Kirley, M., & Halgamuge, S. K. (2018). A recursive decomposition method for large scale continuous optimization. IEEE Transactions on Evolutionary Computation, 22(5), 647-661.
+Sun, Y., Kirley, M., & Halgamuge, S. K. (2018). A recursive decomposition method for large scale continuous optimization. IEEE Transactions on Evolutionary Computation, 22(5), 647-661. [PDF](http://yuansuny.github.io/files/Jpaper_RDG.pdf)
