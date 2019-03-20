@@ -3,7 +3,7 @@ excerpt: '
 
 __Journal Papers:__ <br/>
 
-* Jayasundara, D., Herath, D., Senanayake, D., Saeed, I., Yang, C. Y., __Sun, Y.__, Chang, B. C., Tang, S. L. and Halgamuge, S. K. (2019). ENVirT: inference of ecological characteristics of viruses from metagenomic data. BMC Bioinformatics, 19(13), 377. <br/>
+* Jayasundara, D., Herath, D., Senanayake, D., Saeed, I., Yang, C. Y., __Sun, Y.__, Chang, B. C., Tang, S. L. and Halgamuge, S. K. (2019). ENVirT: inference of ecological characteristics of viruses from metagenomic data. BMC Bioinformatics, 19(13), 377. [[PDF]](http://yuansuny.github.io/files/Jpaper_ENVirT.pdf) <br/>
 
 * __Sun, Y.__, Kirley, M., & Halgamuge, S. K. (2018). A recursive decomposition method for large scale continuous optimization. IEEE Transactions on Evolutionary Computation, 22(5), 647-661. [[PDF]](http://yuansuny.github.io/files/Jpaper_RDG.pdf) <br/> 
 
