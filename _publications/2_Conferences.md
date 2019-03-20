@@ -11,6 +11,8 @@ __Conference Papers:__ <br>
 
 * __Sun, Y.__, Kirley, M., & Halgamuge, S. K. (2017). A memetic cooperative co-evolution model for large scale continuous optimization. In Australasian Conference on Artificial Life and Computational Intelligence, 291-300. Springer, Cham. [[PDF]](http://yuansuny.github.io/files/Cpaper_MCC.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_MCC.txt) <br/>
 
+* __Sun, Y.__, Kirley, M., & Halgamuge, S. K. (2015). Extended differential grouping for large scale global optimization with direct and indirect variable interactions. In Proceedings of the Genetic and Evolutionary Computation Conference, 313-320. ACM. [[PDF]](http://yuansuny.github.io/files/Cpaper_XDG.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_XDG.txt) <br/>
+
 
 '
 
