@@ -1,11 +1,11 @@
 ---
 excerpt: '
 
-Conference Papers: <br>
+__Conference Papers:__ <br>
 
 
-* Wang, W., Sun, Y., & Halgamuge, S. (2018). Improving MMD-GAN Training with Repulsive Loss Function. arXiv preprint arXiv:1812.09916.
+* Wang, W., __Sun, Y.__, & Halgamuge, S. (2019). Improving MMD-GAN Training with Repulsive Loss Function. To be presented in International Conference on Learning Representations (ICLR) 2019, New Orleans. [[PDF]](http://yuansuny.github.io/files/Cpaper_MMDGAN.pdf)
 
-This paper is about the number 3. The number 4 is left for future work. [Download paper here](http://academicpages.github.io/files/paper3.pdf)'
+'
 
 ---
