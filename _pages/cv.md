@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "[CV](http://yuansuny.github.io/files/Jpaper_RDG.pdf)"
+title: "[CV]"
 author_profile: true
 redirect_from:
-  - /resume
+  - 'http://yuansuny.github.io/files/Jpaper_RDG.pdf'
 ---
