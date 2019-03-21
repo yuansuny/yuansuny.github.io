@@ -16,9 +16,8 @@ __For COSC1027/2033 students, a number of research projects is available [here](
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
-
 ```diff
-this will be highlighted in red
+- this will be highlighted in red
 ```
 
 
