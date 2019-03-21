@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "[CV](http://yuansuny.github.io/files/Jpaper_RDG.pdf)"
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-This is my cv
