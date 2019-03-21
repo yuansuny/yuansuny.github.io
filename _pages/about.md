@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I joined the School of Computer Science and Software Engineering, RMIT University as a Postdoctoral Fellow in July 2018. Here I am working on an ARC Discover Project, using hybrid methods (a combination of traditional and artificial intelligence techniques) to solve large-scale combinatorial optimization problems. Prior to that I obtained my Ph.D degree from University of Melbourne in April 2018 and Bachelor's degree from Peking University in 2013. I obtained the 
+I joined the School of Computer Science and Software Engineering, RMIT University as a Postdoctoral Fellow in July 2018. Here I am working on an ARC (Australian Research Council) Discover Project, using hybrid methods (a combination of traditional and artificial intelligence techniques) to solve large-scale optimization problems. 
 
-am a Postdoctoral Fellow in Computer Science and Software Engineering, RMIT University. I obtained my Ph.D degree from University of Melbourne in 2018 and Bachelor's degree from Peking University in 2013. My research interests lie in applied mathmatics, particularly in optimization and operations research, evolutionary computation and machine learning. <br/>
+Prior to that I obtained my Ph.D degree from University of Melbourne in April 2018 and Bachelor's degree from Peking University in 2013. I obtained the 
+
+
+
+My research interests lie in applied mathmatics, particularly in optimization and operations research, evolutionary computation and machine learning. <br/>
 
 See my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf) for more information. 
 
