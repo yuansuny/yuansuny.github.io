@@ -12,8 +12,6 @@ I joined the School of Computer Science and Software Engineering, RMIT Universit
 
 My research interests lie in applied mathmatics, particularly in optimization and operations research, evolutionary computation and machine learning. <br/>
 
-I received the "Chinese government award for outstanding self-financed student study abroad" for my Ph.D [dissertation](https://yuansuny.github.io/files/PHD_Thesis_Yuan_Sun.pdf) in 2019. 
-
 See my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf) for more information.
 
 
@@ -34,6 +32,7 @@ News
 ======
 * Our paper has been accepted in ... 
 * Our paper has been 
+* I received the "Chinese government award for outstanding self-financed student study abroad" in 2019; check the news. 
 
 
 Teaching 
