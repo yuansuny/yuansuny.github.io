@@ -17,16 +17,13 @@ __For COSC1027/2033 students, a number of research projects is available [here].
 
 News
 ======
-
-* Our paper has been accepted in ...
-
+* Our paper has been accepted in ... 
 * Our paper has been 
+
 
 Teaching 
 ======
-
 * COSC1027/2033 Evolutionary Computing, 2019
-
 * COMP90038 Algorithm and Complexity, 2016 -- 2017
 
 
