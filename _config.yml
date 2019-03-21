@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuan Sun"
 title_separator          : "-"
 name                     : &name "Yuan Sun"
-description              : &description "Postdoctoral Researcher, RMIT University"
+description              : &description "Postdoctoral Fellow, RMIT University"
 url                      : https://yuansuny.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuansuny/yuansuny.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuan Sun"
   avatar           : "profile.png"
-  bio              : "yuan.sun@rmit.edu.au \n\n\n Postdoctoral Research, RMIT University"
+  bio              : "yuan.sun@rmit.edu.au <br/> Postdoctoral Fellow, RMIT University"
   location         : "Melbourne, AU"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
