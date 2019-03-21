@@ -14,6 +14,8 @@ See my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf) for more informatio
 
 __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 
 News
 ======
