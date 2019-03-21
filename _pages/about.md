@@ -12,7 +12,7 @@ I am a postdoctoral researcher at RMIT University. I obtained my Ph.D degree fro
 
 See my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf) for more information. 
 
-__For COSC1027/2033 students, a number of research projects is available [here].__
+__For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__
 
 
 News
