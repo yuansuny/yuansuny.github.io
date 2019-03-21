@@ -18,7 +18,6 @@ __For COSC1027/2033 students, a number of research projects is available [here](
 
 
 ```diff
-+ this will be highlighted in green
 - this will be highlighted in red
 ```
 
