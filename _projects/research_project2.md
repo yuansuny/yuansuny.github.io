@@ -1,7 +1,9 @@
 ---
 excerpt: '
 
-__Graph Reduction__ <br>
+__Current Project__ <br>
+
+To do.
 
 '
 
