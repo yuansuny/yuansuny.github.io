@@ -14,9 +14,11 @@ __Projects for COSC1027/2033 Students:__ <br/>
     The goals of this project are 1) re-producing the results from an existing paper; 2) identifying the limitation of existing work and addressing the limitation 3) extending the existing work by considering more EAs and/or more machine learning models; and 4) designing problem-specific operators (i.e., crossover, mutation and selection etc.) for a given training task. 
   
 
-* Design decomposition methods for large-scale optimization problems.
+* Evolutionary Feature Selection  <br/>
+  In machine learning tasks, the number of features in a given dataset can be very large, e.g, gene expression data. However, most of these features are irrelevent and redundent, which significantly slow down the training process and degrade the training accuracy. A logical way to deal with this issue is by dimensionality reduction, i.e., selecting a subset of features for training and testing. This feature selection problem can be easily modeled as an unconstraint optimization problems with binary variables, which is ideal for evolutionary algorithms (EAs) to solve. <br/>
+  
+  The goals of this project are 1) modeling feature selection problems as a binary optimization problems; 2) selecting an EA and adapting it for the feature selection tasks; 3) evaluating the proposed feature selection model using multiple benchmark datasets and classifiers; and 4) comparing the proposed method against the state-of-the-arts.  
 
-* Hybridize evolutionary algorithms with traditional methods.
 
 '
 
