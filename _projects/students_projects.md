@@ -15,10 +15,9 @@ __Projects for COSC1027/2033 Students:__ <br/>
   
 
 * Evolutionary Feature Selection  <br/>
-  In machine learning tasks, the number of features in a given dataset can be very large, e.g, gene expression data. However, most of these features are irrelevent and redundent, which significantly slow down the training process and degrade the training accuracy. A logical way to deal with this issue is by dimensionality reduction, i.e., selecting a subset of features for training and testing. This feature selection problem can be easily modeled as an unconstraint optimization problems with binary variables, which is ideal for evolutionary algorithms (EAs) to solve. <br/>
+  In machine learning tasks, the number of features in a given dataset can be very large, e.g., gene expression data. However, most of these features are typically irrelevant and redundant, which significantly slow down the training process and degrade the training accuracy. A logical way to deal with this issue is by dimensionality reduction, i.e., selecting a subset of features for training and testing. Such a feature selection problem can be easily modelled as an unconstraint optimization problem with binary variables, which is ideal for evolutionary algorithms (EAs) to solve. See a [review] (http://yuansuny.github.io/files/Rpaper_FS.pdf) on this topic. <br/>
   
-  The goals of this project are 1) modeling feature selection problems as a binary optimization problems; 2) selecting an EA and adapting it for the feature selection tasks; 3) evaluating the proposed feature selection model using multiple benchmark datasets and classifiers; and 4) comparing the proposed method against the state-of-the-arts.  
-
+  The goals of this project are 1) modelling feature selection problems as optimization problems; 2) selecting an EA and adapting it for the feature selection tasks; 3) evaluating the proposed feature selection model using multiple benchmark datasets and classifiers; and 4) comparing the proposed method against the state-of-the-arts.  
 
 '
 
