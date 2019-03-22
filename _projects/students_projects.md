@@ -7,7 +7,7 @@ __Student Project__ <br>
 
 * Design decomposition methods for large-scale optimization problems.
 
-* Design 
+* Design effective evolutionary algorithms with domain knowledge.
 
 '
 
