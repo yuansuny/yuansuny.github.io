@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-__Student Project__ <br>
+__Projects for COSC1209 Students__ <br>
 
 * Design problem-specific search operators for combinatorial optimization.
 
