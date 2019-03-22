@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-__PhD Project__ <br/>
+__Ph.D Project__ <br/>
 
 To do.
 
