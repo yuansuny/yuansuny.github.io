@@ -20,9 +20,9 @@ __For COSC1027/2033 students, a number of research projects is available [here](
 
 News
 ======
-* Our paper "An Improved Merge Search Algorithm For the Constrained Pit Problem in Open-pit Mining" has been accepted as a full paper for presenting in GECCO 2019. 
-* Our paper "Decomposition for Large-scale Optimization Problems with Overlapping Components" has been accepted for presenting in IEEE CEC 2019.
-* I received the "Chinese government award for outstanding self-financed student study abroad" in 2019. 
+* Our paper *An Improved Merge Search Algorithm For the Constrained Pit Problem in Open-pit Mining* has been accepted as a full paper for presenting in GECCO 2019. 
+* Our paper *Decomposition for Large-scale Optimization Problems with Overlapping Components* has been accepted for presenting in IEEE CEC 2019.
+* I have received the *Chinese Government Award for Outstanding Self-Financed Student Study Abroad* for my Ph.D work. 
 
 
 Teaching 
