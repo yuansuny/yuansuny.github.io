@@ -3,6 +3,10 @@ excerpt: '
 
 __Conference Papers:__ <br>
 
+1. Kenny, A., Li, X., Ernst, A. T., & __Sun, Y.__ (2019). An improved merge search algorithm for the constrained pit problem in open-pit mining. In Proceedings of the Genetic and Evolutionary Computation Conference, 294-302. ACM. 
+
+1. __Sun, Y.__, Li, X., Ernst, A., & Omidvar, N. (2019). Decomposition for Large-scale Optimization Problems with Overlapping Components. In Proceedings of Congress of Evolutionary Computation, 318-325. IEEE. [[PDF]](http://yuansuny.github.io/files/Cpaper_RDG3.pdf) <br/>
+
 1. Wang, W., __Sun, Y.__, & Halgamuge, S. (2019). Improving MMD-GAN training with repulsive loss function. To be presented at International Conference on Learning Representations (ICLR) 2019, New Orleans. [[PDF]](http://yuansuny.github.io/files/Cpaper_MMDGAN.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_MMDGAN.txt) [[Code]](https://github.com/richardwth/MMD-GAN) <br/>
 
 1. __Sun, Y.__, Kirley, M., & Li, X. (2018). Cooperative co-evolution with online optimizer selection for large-scale optimization. In Proceedings of the Genetic and Evolutionary Computation Conference, 1079-1086. ACM. [[PDF]](http://yuansuny.github.io/files/Cpaper_CCOS.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_CCOS.txt) [[Code]](https://bitbucket.org/yuans/ccos) [[Slides]](http://yuansuny.github.io/files/Cpaper_CCOS_Slides.pdf) <br/>
