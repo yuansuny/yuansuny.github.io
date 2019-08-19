@@ -1,9 +1,7 @@
 ---
 excerpt: '
 
-__Ph.D Project__ <br/>
-
-To do.
+<!--- __Ph.D Project__ <br/> -->
 
 '
 
