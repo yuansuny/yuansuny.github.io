@@ -3,6 +3,8 @@ excerpt: '
 
 __Conference Papers:__ <br>
 
+1. __Sun, Y.__, Wang, W., Kirley, M., Li, X., & Chan, J. Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. To be presented at AAAI 2020 in New York. <br/>
+
 1. Kenny, A., Li, X., Ernst, A. T., & __Sun, Y.__ (2019). An improved merge search algorithm for the constrained pit problem in open-pit mining. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 294-302. ACM. 
 
 1. __Sun, Y.__, Li, X., Ernst, A., & Omidvar, N. (2019). Decomposition for large-scale optimization problems with overlapping components. *Congress of Evolutionary Computation (CEC)*, 318-325. IEEE. *(Winner of IEEE CEC2019 Large-scale Global Optimization Competition)* [[PDF]](http://yuansuny.github.io/files/Cpaper_RDG3.pdf) [[Code]](https://bitbucket.org/yuans/rdg3) <br/>
