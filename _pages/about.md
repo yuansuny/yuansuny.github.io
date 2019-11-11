@@ -20,7 +20,8 @@ My research interest is in optimization and machine learning: 1) enhancing the s
 
 News
 ======
-* Our paper *Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems* has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (__impact factor: 17.7__).  
+* Our paper *Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems* has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (__impact factor: 17.7__).
+* Our paper *Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection* has been accepted for presenting at AAAI 2020 (acceptance rate 20.6%).
 * Our paper *An Improved Merge Search Algorithm for the Constrained Pit Problem in Open-pit Mining* has been accepted as a full paper for presenting at GECCO 2019. 
 * Our paper *Decomposition for Large-scale Optimization Problems with Overlapping Components* has been accepted for presenting at IEEE CEC 2019. This paper won the 2019 Competition on Large-Scale Global Optimization.
 * I have received the *Chinese Government Award for Outstanding Self-Financed Student Study Abroad* for my Ph.D work in May 2019. 
