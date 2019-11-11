@@ -3,6 +3,8 @@ excerpt: '
 
 __Journal Papers:__ <br/>
 
+1. __Sun, Y.__, Li, X., & Ernst A. Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems. IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted in Nov 2019. [[PDF]](http://yuansuny.github.io/files/Jpaper_MLPR.pdf) <br/>
+
 1. Jayasundara, D., Herath, D., Senanayake, D., Saeed, I., Yang, C. Y., __Sun, Y.__, Chang, B. C., Tang, S. L. and Halgamuge, S. K. (2019). ENVirT: inference of ecological characteristics of viruses from metagenomic data. BMC Bioinformatics, 19(13), 377. [[PDF]](http://yuansuny.github.io/files/Jpaper_ENVirT.pdf) <br/>
 
 1. __Sun, Y.__, Kirley, M., & Halgamuge, S. K. (2018). A recursive decomposition method for large scale continuous optimization. IEEE Transactions on Evolutionary Computation, 22(5), 647-661. [[PDF]](http://yuansuny.github.io/files/Jpaper_RDG.pdf) [[BIB]](http://yuansuny.github.io/files/Jpaper_RDG.txt) [[Code]](https://bitbucket.org/yuans/rdg) [[Supp]](http://yuansuny.github.io/files/Jpaper_RDG_Supplement.pdf) <br/> 
