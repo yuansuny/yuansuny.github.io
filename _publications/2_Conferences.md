@@ -3,7 +3,7 @@ excerpt: '
 
 __Conference Papers:__ <br>
 
-1. __Sun, Y.__, Wang, W., Kirley, M., Li, X., & Chan, J. Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. To be presented at AAAI 2020 in New York. [[PDF]](http://yuansuny.github.io/files/Cpaper_PDA.pdf) [[Supp]](http://yuansuny.github.io/files/Cpaper_PDA_Supplement.pdf) <br/>
+1. __Sun, Y.__, Wang, W., Kirley, M., Li, X., & Chan, J. Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. To be presented at AAAI 2020 in New York. [[PDF]](http://yuansuny.github.io/files/Cpaper_PDA.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_PDA.txt) [[Code]](https://github.com/yuansuny/pda) [[Supp]](http://yuansuny.github.io/files/Cpaper_PDA_Supplement.pdf) <br/>
 
 1. Kenny, A., Li, X., Ernst, A. T., & __Sun, Y.__ (2019). An improved merge search algorithm for the constrained pit problem in open-pit mining. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 294-302. ACM. 
 
