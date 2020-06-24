@@ -13,12 +13,8 @@ I joined the School of Computer Science and Software Engineering, RMIT Universit
 My research interest is in optimization and machine learning: 1) enhancing the search ability of optimization algorithms using machine learning techniques for solving large-scale optimization problems, possibly via dimensionality reduction and/or problem decomposition; and 2) improving the training of machine learning models using advanced optimization techniques. <br/>
 
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
-
 <!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
 
-
-
-<font face = "WildWest" size = "5"> 
 
 News
 ======
@@ -32,8 +28,6 @@ Teaching
 ======
 * COSC1027/2033 Evolutionary Computing, 2019
 * COMP90038 Algorithm and Complexity, 2016 -- 2017
-
-</font>
 
 
 
