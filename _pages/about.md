@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<font size="1">
 I joined the School of Computer Science and Software Engineering, RMIT University as a Postdoctoral Fellow in July 2018. Here I am working on an ARC (Australian Research Council) Discovery Project, using hybrid methods (a combination of traditional and machine learning techniques) to solve large-scale optimization problems. Prior to that I obtained my Ph.D degree from University of Melbourne and a Bachelor's degree from Peking University. This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). <br/>
 
 My research interest is in optimization and machine learning: 1) enhancing the search ability of optimization algorithms using machine learning techniques for solving large-scale optimization problems, possibly via dimensionality reduction and/or problem decomposition; and 2) improving the training of machine learning models using advanced optimization techniques. <br/>
@@ -19,7 +18,7 @@ My research interest is in optimization and machine learning: 1) enhancing the s
 
 
 
-
+<font face = "WildWest" size = "5"> 
 
 News
 ======
