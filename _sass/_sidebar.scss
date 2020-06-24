@@ -73,7 +73,8 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  height: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -98,6 +99,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+   text-align: left;
 
   @include breakpoint($large) {
     display: block;
@@ -122,6 +124,7 @@
 
 .author__bio {
   margin: 0;
+  text-align: left;
 
   @include breakpoint($large) {
     margin-top: 10px;
