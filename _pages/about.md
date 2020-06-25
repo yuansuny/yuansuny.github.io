@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Postdoctoral Research Fellow at School of Computer Science and Software Engineering, RMIT University, where I am working on an ARC (Australian Research Council) Discovery Project, using machine learning techniques to improve traditional optimization algorithms. Prior to that I obtained my Ph.D degree from University of Melbourne and a Bachelor's degree from Peking University. This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). <br/>
 
-My current research interests lie in the intersection between machine learning and optimization: 1) enhancing the search ability of optimization algorithms using machine learning techniques for solving large-scale optimization problems, possibly via dimensionality reduction and/or problem decomposition; and 2) improving the training of machine learning models using advanced optimization techniques. Our work has been published in top journals and conferences such as PAMI and AAAI. <br/>
+My current research interests lie in the intersection between machine learning and optimization: 1) enhancing the search ability of optimization algorithms using machine learning techniques for solving large-scale optimization problems, possibly via dimensionality reduction and/or problem decomposition; and 2) improving the training and interpretability of machine learning models using advanced optimization techniques. Our work has been published in top journals and conferences such as PAMI and AAAI. <br/>
 
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
 <!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
