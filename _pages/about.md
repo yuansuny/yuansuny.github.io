@@ -18,6 +18,7 @@ My current research interests lie in the intersection between machine learning a
 
 News
 ======
+* [10/06/20] I have agreed to serve as a reviewer for NeurIPS 2020. 
 * [29/05/20] Our paper "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been nominated as a best paper award. <br/>
 * [21/03/20] Our Paper "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been accepted to GECCO 2020. 
 
