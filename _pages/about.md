@@ -18,7 +18,9 @@ My current research interests lie in the intersection between machine learning a
 
 News
 ======
+[29/05/20] Our paper ''*Automatic Decomposition of Integer Programs for Lagrangian Relaxation Using a Multiobjective Approach*'' has been NOMINATED as a best paper award in GECCO. 
 [21/03/20] Our Paper *Automatic Decomposition of Integer Programs for Lagrangian Relaxation Using a Multiobjective Approach* has been accepted to GECCO 2020. 
+
 
 <!---
 * Our paper *Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems* has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (__impact factor: 17.7__).
