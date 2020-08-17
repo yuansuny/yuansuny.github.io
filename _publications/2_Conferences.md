@@ -5,7 +5,7 @@ __Conference Papers:__ <br>
 
 1. Weiner, J., Ernst, A., Li, X., & __Sun, Y.__ (2020). Automatic Decomposition of Mixed Integer Programs for Lagrangian Relaxation Using a Multiobjective Approach. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 263-270. ACM. [[PDF]](http://yuansuny.github.io/files/Cpaper_LR.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_LR.txt) <br/>
 
-1. __Sun, Y.__, Wang, W., Kirley, M., Li, X., & Chan, J. (2020). Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. To be presented at AAAI 2020 in New York. [[PDF]](http://yuansuny.github.io/files/Cpaper_PDA.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_PDA.txt) [[Code]](https://github.com/yuansuny/pda) [[Supp]](http://yuansuny.github.io/files/Cpaper_PDA_Supplement.pdf) <br/>
+1. __Sun, Y.__, Wang, W., Kirley, M., Li, X., & Chan, J. (2020). Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. In *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)*, 5908-5915. AAAI. [[PDF]](http://yuansuny.github.io/files/Cpaper_PDA.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_PDA.txt) [[Code]](https://github.com/yuansuny/pda) [[Supp]](http://yuansuny.github.io/files/Cpaper_PDA_Supplement.pdf) <br/>
 
 1. Kenny, A., Li, X., Ernst, A., & __Sun, Y.__ (2019). An improved merge search algorithm for the constrained pit problem in open-pit mining. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 294-302. ACM. [[PDF]](http://yuansuny.github.io/files/Cpaper_MS.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_MS.txt) <br/>
 
