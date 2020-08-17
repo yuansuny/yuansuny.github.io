@@ -7,9 +7,9 @@ __Conference Papers:__ <br>
 
 1. __Sun, Y.__, Wang, W., Kirley, M., Li, X., & Chan, J. (2020). Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. To be presented at AAAI 2020 in New York. [[PDF]](http://yuansuny.github.io/files/Cpaper_PDA.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_PDA.txt) [[Code]](https://github.com/yuansuny/pda) [[Supp]](http://yuansuny.github.io/files/Cpaper_PDA_Supplement.pdf) <br/>
 
-1. Kenny, A., Li, X., Ernst, A., & __Sun, Y.__ (2019). An improved merge search algorithm for the constrained pit problem in open-pit mining. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 294-302. ACM. 
+1. Kenny, A., Li, X., Ernst, A., & __Sun, Y.__ (2019). An improved merge search algorithm for the constrained pit problem in open-pit mining. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 294-302. ACM. [[PDF]](http://yuansuny.github.io/files/Cpaper_MS.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_MS.txt) <br/>
 
-1. __Sun, Y.__, Li, X., Ernst, A., & Omidvar, N. (2019). Decomposition for large-scale optimization problems with overlapping components. *Congress of Evolutionary Computation (CEC)*, 318-325. IEEE. *(Winner of IEEE CEC2019 Large-scale Global Optimization Competition)* [[PDF]](http://yuansuny.github.io/files/Cpaper_RDG3.pdf) [[Code]](https://bitbucket.org/yuans/rdg3) <br/>
+1. __Sun, Y.__, Li, X., Ernst, A., & Omidvar, N. (2019). Decomposition for large-scale optimization problems with overlapping components. *Congress of Evolutionary Computation (CEC)*, 318-325. IEEE. *(Winner of IEEE CEC2019 Large-scale Global Optimization Competition)* [[PDF]](http://yuansuny.github.io/files/Cpaper_RDG3.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_RDG3.txt) [[Code]](https://bitbucket.org/yuans/rdg3) <br/>
 
 1. Wang, W., __Sun, Y.__, & Halgamuge, S. (2019). Improving MMD-GAN training with repulsive loss function. *International Conference on Learning Representations (ICLR)*. [[PDF]](http://yuansuny.github.io/files/Cpaper_MMDGAN.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_MMDGAN.txt) [[Code]](https://github.com/richardwth/MMD-GAN) <br/>
 
@@ -21,9 +21,9 @@ __Conference Papers:__ <br>
 
 1. __Sun, Y.__, Kirley, M., & Halgamuge, S. K. (2015). Extended differential grouping for large scale global optimization with direct and indirect variable interactions. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 313-320. ACM. [[PDF]](http://yuansuny.github.io/files/Cpaper_XDG.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_XDG.txt) <br/>
 
-1. __Sun, Y.__, Kirley, M. & Halgamuge, S.K. (2015). On the selection of decomposition methods for large scale fully non-separable problems. In *Proceedings of the Companion Publication of the Genetic and Evolutionary Computation Conference*, 1213-1216. ACM. (student workshop). 
+1. __Sun, Y.__, Kirley, M. & Halgamuge, S.K. (2015). On the selection of decomposition methods for large scale fully non-separable problems. In *Proceedings of the Companion Publication of the Genetic and Evolutionary Computation Conference*, 1213-1216. ACM. (student workshop). <br/>
 
-1. __Sun, Y.__, Halgamuge, S.K., Kirley, M. & Munoz, M.A. 2014. On the selection of fitness landscape analysis metrics for continuous optimization problems. *International Conference on Information and Automation for Sustainability*, 1-6. IEEE.
+1. __Sun, Y.__, Halgamuge, S.K., Kirley, M. & Munoz, M.A. 2014. On the selection of fitness landscape analysis metrics for continuous optimization problems. *International Conference on Information and Automation for Sustainability*, 1-6. IEEE. [[PDF]](http://yuansuny.github.io/files/Cpaper_FLA.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_FLA.txt) <br/>
 
 
 '
