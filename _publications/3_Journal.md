@@ -3,7 +3,7 @@ excerpt: '
 
 __Journal Papers:__ <br/>
 
-1. __Sun, Y.__, Ernst, A., Li, X., & Weiner, J. [Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems]. OR Spectrum, accepted in August 2020. <br/>
+1. __Sun, Y.__, Ernst, A., Li, X., & Weiner, J. Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems. OR Spectrum, accepted in August 2020. [[PDF]](http://yuansuny.github.io/files/Jpaper_MLPR_TSP.pdf) [[BIB]](http://yuansuny.github.io/files/Jpaper_MLPR_TSP.txt) <br/>
 
 1. __Sun, Y.__, Li, X., & Ernst, A. [Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems](https://ieeexplore.ieee.org/document/8908752). IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted in Nov 2019. [[PDF]](http://yuansuny.github.io/files/Jpaper_MLPR.pdf) [[BIB]](http://yuansuny.github.io/files/Jpaper_MLPR.txt) [[Code]](https://github.com/yuansuny/mwc) [[Supp]](http://yuansuny.github.io/files/Jpaper_MLPR_Supplement.pdf) <br/>
 
