@@ -18,6 +18,7 @@ My current research interests lie in the intersection between machine learning a
 
 News
 ======
+* [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A^*).
 * [16/08/20] Our paper titled "Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems" has been accepted to OR Spectrum (JCR Q1).
 * [25/06/20] We will deliver a tutorial on large-scale optimization at IEEE CEC 2020.
 * [10/06/20] I have agreed to serve as a reviewer for NeurIPS 2020. 
