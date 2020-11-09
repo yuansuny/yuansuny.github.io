@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Fellow at School of Computer Science and Software Engineering, RMIT University, where I am working on an ARC (Australian Research Council) Discovery Project, using machine learning techniques to improve traditional optimization algorithms. Prior to that I obtained my Ph.D degree from University of Melbourne and a Bachelor's degree from Peking University. This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). <br/>
+I am a Research Fellow at the School of Mathematics, Monash University. I am the Vice-Chair of the IEEE Task Force on Large-Scale Global Optimisation. I hold a PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/>
 
-My current research interests lie in the intersection between machine learning and optimization: 1) enhancing the search ability of optimization algorithms using machine learning techniques for solving large-scale optimization problems, possibly via dimensionality reduction and/or problem decomposition; and 2) improving the training and interpretability of machine learning models using advanced optimization techniques. Our work has been published in top journals and conferences such as PAMI and AAAI. <br/>
-
+<!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
 <!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
 
