@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuan Sun"
 title_separator          : "-"
 name                     : &name "Yuan Sun"
-description              : &description "Postdoctoral Fellow, RMIT University"
+description              : &description "Research Fellow, Monash University"
 url                      : https://yuansuny.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuansuny/yuansuny.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuan Sun"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow <br/> Computer Science <br/> RMIT University"
-  location         : "Melbourne, AU"
+  bio              : "Research Fellow <br/> Mathematics Science <br/> Monash University"
+  location         : "Clayton, AU"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B49vHtUAAAAJ&hl=en&authuser=1"
-  email            : "yuan.sun@rmit.edu.au"
+  email            : "yuan.sun@monash.edu"
   researchgate     : #"https://www.researchgate.net/profile/Yuan_Sun21"
   uri              :
   bitbucket        : "yuans"
