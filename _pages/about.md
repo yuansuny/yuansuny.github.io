@@ -35,10 +35,10 @@ News
 
 Teaching 
 ======
-  [2020] COSC2123 Algorithms and Analysis, RMIT University, Co-lecturer 
-  [2019] COSC1027/2033 Evolutionary Computing, RMIT University, Co-lecturer 
-  [2017] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Head Tutor
-  [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor
+  [2020] COSC2123 Algorithms and Analysis, RMIT University, Co-lecturer <br/>
+  [2019] COSC1027/2033 Evolutionary Computing, RMIT University, Co-lecturer <br/>
+  [2017] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Head Tutor <br/>
+  [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor <br/>
 
 
 Prizes, honours and awards
