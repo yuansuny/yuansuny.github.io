@@ -35,10 +35,10 @@ News
 
 Teaching 
 ======
-* [2020] COSC2123 Algorithms and Analysis, RMIT University, Co-lecturer 
-* [2019] COSC1027/2033 Evolutionary Computing, RMIT University, Co-lecturer 
-* [2017] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Head Tutor
-* [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor
+  [2020] COSC2123 Algorithms and Analysis, RMIT University, Co-lecturer 
+  [2019] COSC1027/2033 Evolutionary Computing, RMIT University, Co-lecturer 
+  [2017] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Head Tutor
+  [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor
 
 
 Prizes, honours and awards
@@ -59,12 +59,12 @@ Supervision
 Other professional activities
 ======
 * I am the Vice-Chair of IEEE Taskforce on Large-scale Global Optimization since January 2020. The objective of this taskforce is to promote research and development of effective techniques for solving large-scale optimisation problems. 
-* Journal article reviewing: I have regularly served as reviewer for prestigious journals including 
-- IEEE Transactions on Evolutionary Computation  
-- IEEE Transactions on Cybernetics
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems 
-- Swarm and Evolutionary Computation
-- Applied Soft Computing
+* Journal article reviewing: 
+  - IEEE Transactions on Evolutionary Computation  
+  - IEEE Transactions on Cybernetics
+  - IEEE Transactions on Systems, Man, and Cybernetics: Systems 
+  - Swarm and Evolutionary Computation
+  - Applied Soft Computing
 * Conference organisation: I have served as a program committee member of the 31th Australasian Joint Conference on Artificial Intelligence in 2018. As vice-chair of the IEEE taskforce, I have co-organised a special session and a tutorial on large-scale optimisation at 2020 IEEE Congress on Evolutionary Computation, which is one of the largest and most important conferences in evolutionary computation. I have also regularly reviewed papers for the main conferences in machine learning and evolutionary computation, such as Conference on Neural Information Processing Systems, ACM Genetic and Evolutionary Computation Conference, and IEEE Congress on Evolutionary Computation.
 
 
