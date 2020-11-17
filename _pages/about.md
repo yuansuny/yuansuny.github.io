@@ -73,8 +73,10 @@ Other professional activities
   - IEEE Transactions on Systems, Man, and Cybernetics: Systems 
   - Swarm and Evolutionary Computation
   - Applied Soft Computing
-* Conference organisation: I have served as a program committee member of the 31th Australasian Joint Conference on Artificial Intelligence in 2018. As vice-chair of the IEEE taskforce, I have co-organised a special session and a tutorial on large-scale optimisation at 2020 IEEE Congress on Evolutionary Computation, which is one of the largest and most important conferences in evolutionary computation. I have also regularly reviewed papers for the main conferences in machine learning and evolutionary computation, such as Conference on Neural Information Processing Systems, ACM Genetic and Evolutionary Computation Conference, and IEEE Congress on Evolutionary Computation.
-
-
+* Conference organisation: 
+  - Special session on large-scale global optimisation at CEC'2020.
+  - Tutorial on large-scale global optimisation at CEC'2020.
+  - Program committee member of AI'2018, AI'2020. 
+  - Reviewer for NeurIPS, CEC, GECCO.  
 
 
