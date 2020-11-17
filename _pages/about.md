@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/>
+I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/><br/><br/>
 
 <!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
