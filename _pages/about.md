@@ -51,6 +51,14 @@ Prizes, honours and awards
 * 2013-2017, Melbourne International Engagement Awards, University of Melbourne, AUD$86,285
 * 2013-2017, Melbourne International Fee Remission, University of Melbourne, AUD$146,890
 
+Supervision
+======
+* Jake Weiner (PhD, co-supervisoring with Prof Xiaodong Li and Prof Andreas T. Ernst)
+* Yunzhuang Shen (PhD, co-supervisoring with Prof Xiaodong Li and Prof Andrew Eberhard)
+
+Journal article reviewing
+======
+
 
 
 
