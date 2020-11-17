@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/><br/>
+I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/>
 
-- - - - - 
+- - -  
 
 <!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
@@ -34,6 +34,7 @@ News
 * Our paper *Decomposition for Large-scale Optimization Problems with Overlapping Components* has been accepted for presenting at IEEE CEC 2019. This paper won the 2019 Competition on Large-Scale Global Optimization.
 -->
 
+- - -  
 
 Teaching 
 ======
@@ -42,6 +43,7 @@ Teaching
 * [2017] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Head Tutor 
 * [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor 
 
+- - -  
 
 Prizes, honours and awards
 ======
@@ -53,10 +55,14 @@ Prizes, honours and awards
 * 2013-2017, Melbourne International Engagement Awards, University of Melbourne, AUD$86,285
 * 2013-2017, Melbourne International Fee Remission, University of Melbourne, AUD$146,890
 
+- - -  
+
 Supervision
 ======
 * Jake Weiner (PhD, co-supervisoring with Prof Xiaodong Li and Prof Andreas T. Ernst)
 * Yunzhuang Shen (PhD, co-supervisoring with Prof Xiaodong Li and Prof Andrew Eberhard)
+
+- - -  
 
 Other professional activities
 ======
