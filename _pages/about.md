@@ -40,6 +40,28 @@ News
 
 <br/>
 
+Research interests 
+======
+
+* Machine Learning for combinatorial optimisation 
+  - Optimal solution prediction
+	- Iterative learning for optimisation  
+	- Deep learning for optimisation
+
+* Large-scale Optimisation
+  - Automatic problem reduction
+  - Automatic problem decomposition
+  - Co-operative coevolution
+	
+* Instance space analysis
+  - Understand problem hardness
+	- Automatic algorithm selection
+	- Evaluation and benchmark 
+
+- - - 
+
+<br/>
+
 Teaching 
 ======
 * [2020] COSC2123 Algorithms and Analysis, RMIT University, Lecturer 
