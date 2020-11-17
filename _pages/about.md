@@ -66,7 +66,7 @@ Supervision
 
 Other professional activities
 ======
-* I am the Vice-Chair of [IEEE Taskforce on Large-scale Global Optimization](https://www.tflsgo.org) since January 2020. The objective of this taskforce is to promote research and development of effective techniques for solving large-scale optimisation problems. 
+* I am the Vice-Chair of [IEEE Taskforce on Large-scale Global Optimization](https://www.tflsgo.org) since January 2020.
 * Journal article reviewing: 
   - IEEE Transactions on Evolutionary Computation  
   - IEEE Transactions on Cybernetics
