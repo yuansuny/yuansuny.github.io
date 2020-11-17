@@ -45,8 +45,8 @@ Research interests
 
 * Machine Learning for combinatorial optimisation 
   - Optimal solution prediction
-	- Iterative learning for optimisation  
-	- Deep learning for optimisation
+  - Iterative learning for optimisation  
+  - Deep learning for optimisation
 
 * Large-scale Optimisation
   - Automatic problem reduction
@@ -55,8 +55,8 @@ Research interests
 	
 * Instance space analysis
   - Understand problem hardness
-	- Automatic algorithm selection
-	- Evaluation and benchmark 
+  - Automatic algorithm selection
+  - Evaluation and benchmark 
 
 - - - 
 
