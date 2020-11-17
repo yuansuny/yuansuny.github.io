@@ -41,6 +41,16 @@ Teaching
 * [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor
 
 
+Prizes, honours and awards
+======
+* 2020, Nomination for the Best Paper Award at the ACM GECCO conference (CORE Rank A)
+* 2019, Winner of IEEE CEC Competition on Large-Scale Global Optimization
+* 2019, Nomination for the John Melvin Memorial Prize for Best PhD Thesis
+* 2015, Melbourne Abroad Travelling Scholarship, University of Melbourne, AUD$1,000
+* 2015, Travelling Grant from ACM (Association for Computing Machinery), USD$600
+* 2013-2017, Melbourne International Engagement Awards, University of Melbourne, AUD$86,285
+* 2013-2017, Melbourne International Fee Remission, University of Melbourne, AUD$146,890
+
 
 
 
