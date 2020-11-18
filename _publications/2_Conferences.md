@@ -1,7 +1,8 @@
 ---
 excerpt: '
 
-__Conference Papers:__ <br>
+## Conference papers
+
 
 1. Wang, S., __Sun, Y.__, Bao, Z. (2020). On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection. In *Proceedings of the Very Large Data Bases Endowment (PVLDB)*, 163-175. VLDB Endowment. [[PDF]](http://yuansuny.github.io/files/Cpaper_kmeans.pdf) [[BIB]](http://yuansuny.github.io/files/Cpaper_kmeans.txt) [[Code]](https://github.com/tgbnhy/fast-kmeans) <br/>
 
@@ -29,7 +30,7 @@ __Conference Papers:__ <br>
 
 - - - 
 
-<br/>
+
 
 '
 
