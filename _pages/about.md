@@ -12,13 +12,11 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 
 - - -  
 
-<br/>
+
 
 <!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
 <!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
-
-
 News
 ======
 * [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A*).
@@ -28,7 +26,6 @@ News
 * [29/05/20] Our paper titled "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been nominated as a best paper award. <br/>
 * [21/03/20] Our Paper titled "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been accepted to GECCO 2020 (Core Rank A). 
 * [01/01/20] I have been appointed as a vice-chair of IEEE taskforce on large-scale global optimization.
-
 <!---
 * Our paper *Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems* has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (__impact factor: 17.7__).
 * Our paper *Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection* has been accepted for presenting at AAAI 2020 (acceptance rate 20.6%).
@@ -38,11 +35,10 @@ News
 
 - - -  
 
-<br/>
+
 
 Research interests 
 ======
-
 * Machine Learning for combinatorial optimisation 
   - Optimal solution prediction
   - Iterative learning for optimisation  
@@ -60,7 +56,7 @@ Research interests
 
 - - - 
 
-<br/>
+
 
 Teaching 
 ======
@@ -71,7 +67,7 @@ Teaching
 
 - - -  
 
-<br/>
+
 
 Prizes, honours and awards
 ======
@@ -85,7 +81,7 @@ Prizes, honours and awards
 
 - - -  
 
-<br/>
+
 
 Supervision
 ======
@@ -94,7 +90,7 @@ Supervision
 
 - - -  
 
-<br/>
+
 
 Other professional activities
 ======
