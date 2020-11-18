@@ -14,7 +14,7 @@ __If you are interested in any of the following projects, feel free to contract 
 __Motivation__: In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale optimisation problems so that the reduced problems can be solved by existing optimisation algorithms. 
 
 
-__Gap__: The traditional problem reduction methods are designed manually, relying on the intuition or insights of an expert. In contrast, we will develop innovative machine learning models to automate the process of problem reduction, which alleviates the requirement of domain knowledge. The underlying mechanism of the proposed method is illustrated in the context of Travelling Salesman Problem (TSP) as follows. 
+__Gap__: The traditional problem reduction methods are designed manually, relying on the intuition or insights of an expert. In contrast, we will develop innovative machine learning models to automate the process of problem reduction, alleviating the requirement of domain knowledge. The underlying mechanism of the proposed method is illustrated in the context of Travelling Salesman Problem (TSP) as follows. 
 
 
 __Training__: Firstly, a set of small and easy TSP instances are solved to optimality, with the optimal routes highlighted in yellow in the corresponding graph (left subfigure). Features (e.g. edge weight) are then extracted to characterise each edge in the graphs, and edges are mapped to the feature space as training examples (middle subfigure). Finally, classification algorithms can be used to learn a decision boundary in the feature space to well separate edges that are part of the optimal routes from those which are not (right subfigure). 
@@ -33,7 +33,7 @@ __Testing__: Given an unsolved TSP instance (left subfigure), each edge in the c
 </p>
 
 
-__Opportunities__: Leveraging machine learning for combinatorial optimisation is an emerging research area, and developing automatic problem reduction methods for combinatorial optimisation is largely unexplored. We see great potential in this hybrid technique and a lot of opportunities for future work. 
+__Current progress__: This conceptual framework was originally described in our recent IEEE TPAMI paper. As a proof of concept, we have shown that this framework works well on two problems. As this is a largely unexplored research area, we see great potential in this hybrid technique and a lot of opportunities for future work. 
 
 
 __Publications__: [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
