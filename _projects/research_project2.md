@@ -10,7 +10,7 @@ __If you are interested in any of the following projects, feel free to contract 
 <br/>
 
 
-## Automatic problem reduction using machine learning ## [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
+## Automatic problem reduction using machine learning 
 
 In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale combinatorial optimisation problems so that the reduced problems can be solved by existing optimisation algorithms. <br/>
 
@@ -25,6 +25,8 @@ Testing: Given an unsolved TSP instance (left subfigure), each edge in the corre
 ![](https://yuansuny.github.io/images/MLPR_testing.png)
 
 <img src="https://yuansuny.github.io/images/MLPR_testing.png" width="500" height="100">
+
+Outcome: [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
 
 
 - - - 
