@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-__If you are interested in any of the following projects, feel free to contract me for a collaboration.__ 
+<span style="color:blue">If you are interested in any of the following projects, feel free to contract me for a collaboration.</span>
 
 - - - 
 
@@ -40,7 +40,7 @@ __Publications__: [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf
 - - - 
 
 
-
+<br/><br/><br/>
 
 
 
