@@ -28,6 +28,7 @@ News
 * [29/05/20] Our paper titled "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been nominated as a best paper award. <br/>
 * [21/03/20] Our Paper titled "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been accepted to GECCO 2020 (Core Rank A). 
 * [01/01/20] I have been appointed as a vice-chair of IEEE taskforce on large-scale global optimization.
+
 <!---
 * Our paper *Using Statistical Measures and Machine Learning for Graph Reduction to Solve Maximum Weight Clique Problems* has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (__impact factor: 17.7__).
 * Our paper *Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection* has been accepted for presenting at AAAI 2020 (acceptance rate 20.6%).
