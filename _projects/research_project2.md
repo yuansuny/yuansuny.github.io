@@ -3,10 +3,19 @@ excerpt: '
 
 <br/> 
 
-If you are interested in any of the following projects, feel free to contract me for a collaboration. <br/>
+__If you are interested in any of the following projects, feel free to contract me for a collaboration.__ <br/>
 
-* __Using Statistical Measures and Machine Learning for Problem Reduction__ [[outcome1](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [outcome2](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
-Combinatorial optimization plays an important role in real-world problem solving. In the big data era, the dimensionality of a combinatorial optimization problem is usually very large, which poses a significant challenge to existing solution algorithms. In this project, we investigate problem reduction techniques using stochastic sampling and machine learning to tackle large-scale optimization problems. These techniques heuristically remove decision variables from a problem instance, that are not expected to be part of an optimal solution. First, we investigate the use of statistical measures computed from stochastic sampling of feasible solutions compared with features computed directly from the instance data. Two measures are particularly useful for this: 1) a ranking-based measure, favoring decision variables that frequently appear in high-quality solutions; and 2) a correlation-based measure, favoring decision variables that are highly correlated with the objective values. To take this further, we develop a machine learning approach, called Machine Learning for Problem Reduction (MLPR), that trains a supervised learning model on easy problem instances for which the optimal solution is known. This gives us a combination of features enabling us to better predict the decision variables that belong to the optimal solution for a given hard problem. We have demonstrated the efficacy of our approaches on the maximum weight clique problem ([MWCP](https://yuansuny.github.io/files/Jpaper_MLPR.pdf)) and travelling salesman problem ([TSP](https://arxiv.org/pdf/2005.05847.pdf)). Our experimental results have shown that our problem reduction techniques are very effective and can be used to boost the performance of existing solution methods.
+- - - 
+
+
+* __Automatic problem reduction using machine learning__ [[outcome1](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [outcome2](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
+In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale combinatorial optimisation problems so that the reduced problems can be solved by existing optimisation algorithms.
+
+
+- - - 
+
+<br/>
+
 
 * __Boosting Meta-heuristics via Solution Prediction and Machine Learning__ (To apprear) <br/>
 As a proof of concept, we integrate machine learning with ant colony optimization (ACO) to solve a combinatorial optimization problem. Our machine learning model trains on a set of optimally-solved problem instances, and predicts for a test instance which decision variables are more likely to be part of an optimal solution. We explore multiple ways of incorporating this solution prediction into the probabilistic model of ACO to bias its sampling towards using predicted high-quality decision variables more often, when constructing feasible solutions. We empirically show that our machine learning prediction significantly speeds up ACO in finding high-quality solutions, and outperforms other quality measure directly computed from problem characteristics.  Our model is robust in the sense that 1) it is fairly insensitive to the learning algorithm used in training; and 2) it generalizes well to large and real-world problem instances.
