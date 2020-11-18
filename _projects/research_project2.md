@@ -12,7 +12,7 @@ __If you are interested in any of the following projects, feel free to contract 
 ## Automatic problem reduction using machine learning {align=center}
 
 
-__Motivation__: In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale combinatorial optimisation problems so that the reduced problems can be solved by existing optimisation algorithms. 
+__Motivation__: In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale optimisation problems so that the reduced problems can be solved by existing optimisation algorithms. 
 
 
 __Gap__: The traditional problem reduction methods are designed manually, relying on the intuition or insights of an expert. In contrast, we will develop innovative machine learning models to automate the process of problem reduction, which alleviates the requirement of domain knowledge. The underlying mechanism of the proposed method is illustrated in the context of Travelling Salesman Problem (TSP) as follows. 
