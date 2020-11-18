@@ -18,11 +18,11 @@ The traditional problem reduction methods are designed manually, relying on the 
 
 Training: Firstly, a set of small and easy TSP instances are solved to optimality, with all the optimal routes highlighted in yellow in the corresponding graph (left subfigure). Features (e.g. edge weight) are then extracted to characterise each edge in the graphs, and edges are mapped to the feature space as training points or examples (middle subfigure). Finally, classification algorithms can be used to learn a decision boundary in the feature space to well separate edges (training examples) that are part of the optimal routes from those which are not (right subfigure). <br/>
 
-![](https://yuansuny.github.io/images/MLPR_training.png)
+![](https://yuansuny.github.io/images/MLPR_training.pdf)
 
 Testing: Given an unsolved TSP instance (left subfigure), each edge in the corresponding graph is first mapped to a point in the feature space (middle subfigure). Based on the location of the points with respect to the optimal decision boundary, the edges that are not expected to be part of the optimal route can be predicted and removed from the corresponding graph (right subfigure). <br/>
 
-<img src="https://yuansuny.github.io/images/MLPR_testing.png" width="500" height="100">
+<img src="https://yuansuny.github.io/images/MLPR_testing.pdf" width="500" height="100">
 
 <br/>
 
