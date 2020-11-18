@@ -13,7 +13,7 @@ __If you are interested in any of the following projects, feel free to contract 
 __Automatic problem reduction using machine learning__ [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
 In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale combinatorial optimisation problems so that the reduced problems can be solved by existing optimisation algorithms.
 
-![](https://yuansuny.github.io/images/MLPR_training.png)
+![](https://yuansuny.github.io/images/MLPR_training.png =100x)
 
 
 - - - 
