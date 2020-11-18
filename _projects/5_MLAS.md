@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-## Boosting meta-heuristics via machine learning 
+## Instance space analysis and algorithm selection 
 
 
 To appear
