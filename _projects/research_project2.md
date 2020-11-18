@@ -22,9 +22,9 @@ Training: Firstly, a set of small and easy TSP instances are solved to optimalit
 
 Testing: Given an unsolved TSP instance (left subfigure), each edge in the corresponding graph is first mapped to a point in the feature space (middle subfigure). Based on the location of the points with respect to the optimal decision boundary, the edges that are not expected to be part of the optimal route can be predicted and removed from the corresponding graph (right subfigure). <br/>
 
-![](https://yuansuny.github.io/images/MLPR_testing.png)
-
 <img src="https://yuansuny.github.io/images/MLPR_testing.png" width="500" height="100">
+
+<br/>
 
 Outcome: [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
 
