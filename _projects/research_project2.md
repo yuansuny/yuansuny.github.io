@@ -11,17 +11,17 @@ __If you are interested in any of the following projects, feel free to contract 
 
 
 __Automatic problem reduction using machine learning__ [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
-In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale combinatorial optimisation problems so that the reduced problems can be solved by existing optimisation algorithms.
+In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale combinatorial optimisation problems so that the reduced problems can be solved by existing optimisation algorithms. <br/>
 
-The traditional problem reduction methods are designed manually, relying on the intuition or insights of an expert. In this project, we aim to develop innovative machine learning models to automate the process of problem reduction, thus alleviating the requirement of domain knowledge. The underlying mechanism of the proposed method is illustrated within the context of Travelling Salesman Problem (TSP) as follows. 
+The traditional problem reduction methods are designed manually, relying on the intuition or insights of an expert. In this project, we aim to develop innovative machine learning models to automate the process of problem reduction, thus alleviating the requirement of domain knowledge. The underlying mechanism of the proposed method is illustrated within the context of Travelling Salesman Problem (TSP) as follows.  <br/>
 
-Training: Firstly, a set of small and easy TSP instances are solved to optimality, with all the optimal routes highlighted in yellow in the corresponding graph (left subfigure). Features (e.g. edge weight) are then extracted to characterise each edge in the graphs, and edges are mapped to the feature space as training points or examples (middle subfigure). Finally, classification algorithms can be used to learn a decision boundary in the feature space to well separate edges (training examples) that are part of the optimal routes from those which are not (right subfigure). 
+Training: Firstly, a set of small and easy TSP instances are solved to optimality, with all the optimal routes highlighted in yellow in the corresponding graph (left subfigure). Features (e.g. edge weight) are then extracted to characterise each edge in the graphs, and edges are mapped to the feature space as training points or examples (middle subfigure). Finally, classification algorithms can be used to learn a decision boundary in the feature space to well separate edges (training examples) that are part of the optimal routes from those which are not (right subfigure). <br/>
 
-![](https://yuansuny.github.io/images/MLPR_training.png =100x20)
+![](https://yuansuny.github.io/images/MLPR_training.png)
 
-Testing: Given an unsolved TSP instance (left subfigure), each edge in the corresponding graph is first mapped to a point in the feature space (middle subfigure). Based on the location of the points with respect to the optimal decision boundary, the edges that are not expected to be part of the optimal route can be predicted and removed from the corresponding graph (right subfigure). 
+Testing: Given an unsolved TSP instance (left subfigure), each edge in the corresponding graph is first mapped to a point in the feature space (middle subfigure). Based on the location of the points with respect to the optimal decision boundary, the edges that are not expected to be part of the optimal route can be predicted and removed from the corresponding graph (right subfigure). <br/>
 
-![](https://yuansuny.github.io/images/MLPR_testing.png =100x20)
+![](https://yuansuny.github.io/images/MLPR_testing.png)
 
 
 - - - 
