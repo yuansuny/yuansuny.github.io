@@ -1,7 +1,8 @@
 ---
 excerpt: '
 
-__Journal Papers:__ <br/>
+## Journal papers
+
 
 1. __Sun, Y.__, Ernst, A., Li, X., & Weiner, J. (2020). [Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems](https://rdcu.be/b6ECv). *OR Spectrum*, accepted in August 2020. [[PDF]](http://yuansuny.github.io/files/Jpaper_MLPR_TSP.pdf) [[BIB]](http://yuansuny.github.io/files/Jpaper_MLPR_TSP.txt) [[Code]](https://github.com/yuansuny/tsp) <br/>
 
@@ -17,7 +18,7 @@ __Journal Papers:__ <br/>
 
 - - - 
 
-<br/>
+
 
 '
 
