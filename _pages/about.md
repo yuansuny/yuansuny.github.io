@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/>
+<!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
+<!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
+<!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
 
 - - -  
 
 
 
-<!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
-<!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
-<!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
+
+
 News
 ======
 * [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A*).
