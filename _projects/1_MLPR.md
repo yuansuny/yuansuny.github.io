@@ -34,7 +34,7 @@ __Testing__: Given an unsolved TSP instance (left subfigure), each edge in the c
 __Current progress__: This conceptual framework was originally described in our recent IEEE TPAMI paper. As a proof of concept, we have shown that this framework works well on two problems. As this is a largely unexplored research area, we see great potential in this hybrid technique and a lot of opportunities for future work. 
 
 
-__Publications__: [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] <br/>
+__Publications__: [[IEEE TPAMI](https://yuansuny.github.io/files/Jpaper_MLPR.pdf), [OR Spectrum](https://arxiv.org/pdf/2005.05847.pdf)] 
 
 
 - - - 
