@@ -24,7 +24,7 @@ Testing: Given an unsolved TSP instance (left subfigure), each edge in the corre
 
 ![](https://yuansuny.github.io/images/MLPR_testing.png)
 
-<img src="https://yuansuny.github.io/images/MLPR_testing.png" width="1000" height="200">
+<img src="https://yuansuny.github.io/images/MLPR_testing.png" width="500" height="100">
 
 
 - - - 
