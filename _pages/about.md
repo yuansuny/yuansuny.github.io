@@ -21,7 +21,7 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 
 News
 ======
-* [08/12/20] Call for papers: We are organizing a special session on [Large-Scale Global Optimisation]( http://www.tflsgo.org/special_sessions/cec2021.html) in CEC'2021. Please submit your work to this session. 
+* [08/12/20] <span style="color:red"> Call for papers </span>: We are organizing a special session on [Large-Scale Global Optimisation]( http://www.tflsgo.org/special_sessions/cec2021.html) in CEC'2021. Please submit your work to this session. 
 * [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A*).
 * [16/08/20] Our paper titled "Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems" has been accepted to OR Spectrum (JCR Q1).
 * [25/06/20] We will deliver a tutorial on large-scale optimization at IEEE CEC 2020.
