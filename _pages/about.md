@@ -21,6 +21,8 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 
 News
 ======
+* [10/12/20] A paper accepted to SIGMOD 2021 (Core Rank A*). Congrats to Sheng Wang.
+* [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
 * [08/12/20] <span style="color:red"> Call for papers </span>: We are organizing a special session on [Large-Scale Global Optimisation]( http://www.tflsgo.org/special_sessions/cec2021.html) in CEC'2021. Please submit your work to this session. 
 * [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A*).
 * [16/08/20] Our paper titled "Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems" has been accepted to OR Spectrum (JCR Q1).
