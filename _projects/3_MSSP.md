@@ -6,6 +6,10 @@ excerpt: '
 
 To appear
 
+<p align="center">
+<img src="https://yuansuny.github.io/files/MSSP_methodology.pdf" width="450" height="90"> 
+</p>
+
 - - -
 
 
