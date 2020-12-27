@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-## <span style="display:block;text-align:center;color:navy"> 6. Learning Variable Interactions for Black-box Optimization </span>  
+## <span style="display:block;text-align:center;color:navy"> 6. Problem decomposition for black-box continuous optimization </span>  
 
 
 To appear
