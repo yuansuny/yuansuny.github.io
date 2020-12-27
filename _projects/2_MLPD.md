@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-## <span style="color:blue"> 2. Automatic problem decomposition using machine learning </span>  
+## <span style="display:block;text-align:center;color:blue"> 2. Automatic problem decomposition using machine learning </span>  
 
 
 To appear
