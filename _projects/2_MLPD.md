@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-## Automatic problem decomposition using machine learning 
+## 2. Automatic problem decomposition using machine learning 
 
 
 To appear
