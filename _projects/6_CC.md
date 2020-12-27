@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-## Cooperative co-evolution and large neighbourhood search 
+## Identifying Variable Interactions for Black-box Continous Optimisation Problems 
 
 
 To appear
