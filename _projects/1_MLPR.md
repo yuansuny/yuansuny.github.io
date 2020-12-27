@@ -1,8 +1,6 @@
 ---
 excerpt: '
 
-<span style="color:blue">If you are interested in any of the following projects, feel free to contract me for a discussion or collaboration.</span>
-
 - - - 
 
 
