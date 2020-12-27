@@ -1,7 +1,7 @@
 ---
 excerpt: '
 
-## <span style="display:block;text-align:center;color:navy"> 6. Identifying Variable Interactions for Black-box Continuous Optimisation Problems </span>  
+## <span style="display:block;text-align:center;color:navy"> 6. Learning Variable Interactions for Black-box Optimization </span>  
 
 
 To appear
