@@ -6,7 +6,7 @@ excerpt: '
 - - - 
 
 
-## Automatic problem reduction using machine learning
+## <span style="color:blue"> 1. Automatic problem reduction using machine learning </span>
 
 
 __Motivation__: In the big data era, the size of many real-world combinatorial optimisation problems has increased significantly over the years, making the problems very hard to solve. This project aims to develop innovative problem reduction methods using machine learning to reduce the size of large-scale optimisation problems so that the reduced problems can be solved by existing optimisation algorithms. 
