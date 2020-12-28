@@ -9,7 +9,7 @@ To appear
 <!---
 
 
-__Motivation__: Tackling NP-hard combinatorial optimisation problems typically requires specific algorithmic design with extensive domain knowledge. To alleviate human effort in this costly process, we aim to develop enhanced machine learning (ML) techniques to predict the optimal solution for combinatorial optimisation problems. The predicted solution is likely infeasible, however it can be utilized in multiple ways to boost a search method.
+__Motivation__: Tackling NP-hard problems typically requires specific algorithmic design with extensive domain knowledge. To alleviate human effort in this costly process, we aim to develop enhanced machine learning (ML) techniques to predict the optimal solution for combinatorial optimisation problems. The predicted solution is likely infeasible, however it can be utilized to boost a search method.
 
 
 __Gap__: Existing approaches are mainly _one-shot_, i.e., predicting the optimal solution only once, followed by repairing the predicted solution using a search method. Such _one-shot_ approaches are inadequate in dealing with the high complexity of NP-hard problems, particularly problems that are highly-constrained and/or contain multiple optimal (or near-optimal) solutions. 
