@@ -18,7 +18,7 @@ __Methodology__: We aim to develop an iterative framework that enables an ML mod
 </p>
 
 
-__Current progress__: We have instantiated this high-level idea by using a probabilistic sampling method and a simple ML model with statistical features computed from samples of solutions. The initial results are very promising, and we see a lot of potential in this multi-shot solution prediction approach. 
+__Current progress__: We have instantiated this high-level idea by using a probabilistic sampling method and a simple ML model with statistical features computed from samples of solutions. The initial results are very promising, and we are currently exploring more in this direction. 
 
 
 __Publications__: To appear.
