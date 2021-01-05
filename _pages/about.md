@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, OR Spectrum, AAAI, ICLR and VLDB. <br/>
+I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, EJOR, OR Spectrum, AAAI, ICLR and VLDB. <br/>
 <!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
 <!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
@@ -21,6 +21,7 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 
 News
 ======
+* [05/01/21] A paper accepted to EJOR: "Solving the Maximum Edge Disjoint Path Problem Using a Modified Lagrangian Particle Swarm Optimisation Hybrid". (JCR Q1, Core Rank A).  
 * [10/12/20] SIGMOD 2021 paper accepted: "Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand". (Core Rank A*)
 * [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
 * [08/12/20] <span style="color:red"> Call for papers </span>: We are organizing a special session on [Large-Scale Global Optimisation]( http://www.tflsgo.org/special_sessions/cec2021.html) in CEC'2021. Please submit your work to this session. 
