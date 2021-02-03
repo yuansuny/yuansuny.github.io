@@ -3,7 +3,7 @@ excerpt: '
 
 ## Journal papers
 
-1. Weiner, J., Ernst, A.T., Li, X., __Sun, Y.__, & Deb, K. [Solving the Maximum Edge Disjoint Path Problem Using a Modified Lagrangian Particle Swarm Optimisation Hybrid](https://www.sciencedirect.com/science/article/abs/pii/S0377221721000114). *European Journal of Operational Research*, accepted on 5/Jan/2021. <br/> 
+1. Weiner, J., Ernst, A.T., Li, X., __Sun, Y.__, & Deb, K. [Solving the Maximum Edge Disjoint Path Problem Using a Modified Lagrangian Particle Swarm Optimisation Hybrid](https://www.sciencedirect.com/science/article/abs/pii/S0377221721000114). *European Journal of Operational Research*, accepted on 5/Jan/2021. [[PDF]](http://yuansuny.github.io/files/Jpaper_MEDP.pdf) [[BIB]](http://yuansuny.github.io/files/Jpaper_MEDP.txt) <br/> 
 
 1. __Sun, Y.__, Ernst, A., Li, X., & Weiner, J. (2020). [Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems](https://rdcu.be/b6ECv). *OR Spectrum*, accepted in August 2020. [[PDF]](http://yuansuny.github.io/files/Jpaper_MLPR_TSP.pdf) [[BIB]](http://yuansuny.github.io/files/Jpaper_MLPR_TSP.txt) [[Code]](https://github.com/yuansuny/tsp) <br/>
 
