@@ -93,8 +93,8 @@ Prizes, honours and awards
 
 Supervision
 ======
-* Jake Weiner (PhD, co-supervised with Prof Xiaodong Li and Prof Andreas T. Ernst)
-* Yunzhuang Shen (PhD, co-supervised with Prof Xiaodong Li and Prof Andrew Eberhard)
+* Jake Weiner (PhD, co-supervising with Prof Xiaodong Li and Prof Andreas T. Ernst)
+* Yunzhuang Shen (PhD, co-supervising with Prof Xiaodong Li and Prof Andrew Eberhard)
 
 - - -  
 
