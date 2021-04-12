@@ -25,11 +25,11 @@ News
 * [05/01/21] A paper accepted to EJOR: "Solving the Maximum Edge Disjoint Path Problem Using a Modified Lagrangian Particle Swarm Optimisation Hybrid". (JCR Q1, Core Rank A).  
 * [10/12/20] SIGMOD 2021 paper accepted: "Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand". (Core Rank A*)
 * [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
+
+<!---
 * [08/12/20] <span style="color:red"> Call for papers </span>: We are organizing a special session on [Large-Scale Global Optimisation]( http://www.tflsgo.org/special_sessions/cec2021.html) in CEC'2021. Please submit your work to this session. 
 * [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A*).
 * [16/08/20] Our paper titled "Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems" has been accepted to OR Spectrum (JCR Q1).
-
-<!---
 * [25/06/20] We will deliver a tutorial on large-scale optimization at IEEE CEC 2020.
 * [10/06/20] I have agreed to serve as a reviewer for NeurIPS 2020. 
 * [29/05/20] Our paper titled "Automatic decomposition of integer programs for lagrangian relaxation using a multiobjective approach" has been nominated as a best paper award. <br/>
