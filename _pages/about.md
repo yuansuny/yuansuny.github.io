@@ -110,6 +110,7 @@ Other professional activities
   - IEEE Transactions on Systems, Man, and Cybernetics: Systems 
   - Swarm and Evolutionary Computation
   - Applied Soft Computing
+  - Algorithms
 * Conference organisation: 
   - Special session on large-scale global optimisation at CEC'2021.
   - Special session on large-scale global optimisation at CEC'2020.
