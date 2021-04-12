@@ -21,9 +21,9 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 
 News
 ======
-* [10/04/21] A paper accepted by IJCNN: "Learning Primal Heuristics for Mixed Integer Programs". (Core Rank A)
-* [05/01/21] A paper accepted to EJOR: "Solving the Maximum Edge Disjoint Path Problem Using a Modified Lagrangian Particle Swarm Optimisation Hybrid". (JCR Q1, Core Rank A).  
-* [10/12/20] SIGMOD 2021 paper accepted: "Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand". (Core Rank A*)
+* [10/04/21] A paper accepted by IJCNN (Core Rank A). 
+* [05/01/21] A paper accepted to EJOR (JCR Q1, Core Rank A).  
+* [10/12/20] A paper accepted to SIGMOD (Core Rank A*). 
 * [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
 
 <!---
