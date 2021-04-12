@@ -22,6 +22,7 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 News
 ======
 * [10/04/21] A paper accepted by IJCNN (Core Rank A). 
+* [09/04/21] Accepted the invitation to be a Reviewer for NeurIPS 2021. 
 * [05/01/21] A paper accepted to EJOR (JCR Q1, Core Rank A).  
 * [10/12/20] A paper accepted to SIGMOD (Core Rank A*). 
 * [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
