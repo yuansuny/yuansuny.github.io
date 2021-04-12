@@ -2,6 +2,7 @@
 excerpt: '
 
 ## Conference papers
+1. Shen, Y., __Sun, Y.__, Eberhard, A., Li, X. (2021) Learning Primal Heuristics for Mixed Integer Programs. *International Joint Conference on Neural Networks*. To appear.  
 
 1. Wang, S., __Sun, Y.__, Musco, C., Bao, Z. (2021) Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand. *ACM Special Interest Group on Management of Data (SIGMOD)*. To appear.
 
