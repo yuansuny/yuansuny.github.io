@@ -3,7 +3,7 @@ excerpt: '
 
 ## <span style="display:block;text-align:center;color:navy"> 3. Optimal solution prediction </span> 
 
-To appear.
+To appear
 
 
 <!---
