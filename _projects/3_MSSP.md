@@ -3,6 +3,9 @@ excerpt: '
 
 ## <span style="display:block;text-align:center;color:navy"> 3. Optimal solution prediction </span> 
 
+To appear.
+
+
 <!---
 
 __Motivation__: Tackling NP-hard problems typically requires specific algorithmic design with extensive domain knowledge. To alleviate human effort in this costly process, we aim to develop enhanced machine learning (ML) techniques to predict the optimal solution for combinatorial optimisation problems. The predicted solution is likely infeasible; however, it can be utilized to boost a search method.
