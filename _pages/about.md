@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the School of Mathematics, Monash University. Prior to that, I was a Postdoctoral Research Associate with the School of Computer Science and Software Engineering, RMIT University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, EJOR, OR Spectrum, AAAI, ICLR, VLDB and SIGMOD. <br/>
+I am a Research Fellow at the School of Mathematics, Monash University. I received my PhD degree in Computer Science from The University of Melbourne, Australia, and a Bachelor's degree in Applied Mathematics from Peking University, China. My research interests include machine learning, combinatorial optimisation, mathematical programming, evolutionary computation and large-scale optimisation. My research has been published in prestigious journals and conferences such as IEEE TPAMI, IEEE TEVC, EJOR, OR Spectrum, AAAI, ICLR, VLDB and SIGMOD. <br/>
 <!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
 <!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
 <!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
@@ -21,13 +21,13 @@ I am a Research Fellow at the School of Mathematics, Monash University. Prior to
 
 News
 ======
-* [10/04/21] A paper accepted by IJCNN (Core Rank A). 
-* [09/04/21] Accepted the invitation to be a Reviewer for NeurIPS 2021. 
+* [10/04/21] A paper accepted by IJCNN. 
 * [05/01/21] A paper accepted to EJOR (JCR Q1, Core Rank A).  
 * [10/12/20] A paper accepted to SIGMOD (Core Rank A*). 
-* [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
 
 <!---
+* [09/04/21] Accepted the invitation to be a Reviewer for NeurIPS 2021. 
+* [10/12/20] Congratulations to my PhD supervisor [Michael Kirley](https://people.eng.unimelb.edu.au/mkirley/) on his promotion to Level E (Professor)!
 * [08/12/20] <span style="color:red"> Call for papers </span>: We are organizing a special session on [Large-Scale Global Optimisation]( http://www.tflsgo.org/special_sessions/cec2021.html) in CEC'2021. Please submit your work to this session. 
 * [15/09/20] Our work "On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection" has been accepted to VLDB 2021 (Core Rank A*).
 * [16/08/20] Our paper titled "Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems" has been accepted to OR Spectrum (JCR Q1).
@@ -114,8 +114,9 @@ Other professional activities
 * Conference organisation: 
   - Special session on large-scale global optimisation at CEC'2021.
   - Special session on large-scale global optimisation at CEC'2020.
+  - Tutorial on large-scale optimisation and learning at CEC'2021.
   - Tutorial on large-scale global optimisation at CEC'2020.
   - Program committee member of AI'2018, AI'2020. 
-  - Reviewer for NeurIPS, CEC, GECCO.  
+  - Reviewer for NeurIPS, ICLR, CEC, GECCO.  
 
 
