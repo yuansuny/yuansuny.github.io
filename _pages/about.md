@@ -21,6 +21,8 @@ I am a Research Fellow at the School of Mathematics, Monash University. I receiv
 
 News
 ======
+* [22/06/21] Will give a tutorial on large-scale combinatorial optimisation at CEC'21. 
+* [08/06/21] Received the Monash University ECR Professional Development Grant. 
 * [10/04/21] A paper accepted by IJCNN. 
 * [05/01/21] A paper accepted to EJOR (JCR Q1, Core Rank A).  
 * [10/12/20] A paper accepted to SIGMOD (Core Rank A*). 
